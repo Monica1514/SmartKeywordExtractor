@@ -1,0 +1,7 @@
+1. Download Python From the official website: Python.org
+2. Install Python by running Installer:
+	check "Add Python to Path" before clicking Install.
+	click "Install Now" and wait for the process.
+3. Double Click on the Libraries File and It will install Everything. THIS IS A ONE TIME ACTIVITY ONLY. DO IT ONLY FOR THE FIRST TIME. THIS WILL HIDE UNNECESSARY FILES. 
+4. Double click on the Keyword Extractor.bat File and your bot will start working.
+5. FILL THE Description IN THE BOT & click on the Start Button.
